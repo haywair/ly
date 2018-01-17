@@ -1,0 +1,9 @@
+.idea
+composer.lock
+*.log
+*.css.map
+thinkphp
+vendor
+runtime
+public/assets/libs/
+/public/uploads
